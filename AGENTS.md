@@ -1,3 +1,7 @@
 # cron-expression-builder
 
-Build cron expressions from natural language
+CLI tool for cron expression builder.
+
+## For AI agents
+- Run `python3 scripts/cli.py --help`
+- Use `--json` flag for machine-readable output

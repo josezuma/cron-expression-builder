@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is cron-expression-builder?
-Build cron expressions from natural language
+A CLI tool for cron expression builder.
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
