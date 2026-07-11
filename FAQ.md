@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is cron-expression-builder?
-A CLI tool for cron expression builder.
+Cron Expression Builder
 
 ## Dependencies?
 Python stdlib only.
